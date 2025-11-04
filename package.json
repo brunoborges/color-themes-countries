@@ -221,5 +221,9 @@
       }
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brunoborges/color-themes-countries.git"
+  },
   "license": "MIT"
 }
