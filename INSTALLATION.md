@@ -17,9 +17,9 @@ cd ~/.vscode/extensions
 git clone <repository-url> color-themes-countries
 ```
 
-Or copy the entire folder:
+Or create a symlink to the cloned repository:
 ```bash
-cp -r /path/to/color-themes-countries ~/.vscode/extensions/
+ln -s /path/to/color-themes-countries ~/.vscode/extensions/color-themes-countries
 ```
 
 ### Windows
@@ -29,9 +29,9 @@ cd %USERPROFILE%\.vscode\extensions
 git clone <repository-url> color-themes-countries
 ```
 
-Or manually copy the folder to:
-```
-%USERPROFILE%\.vscode\extensions\
+Or create a symlink (requires administrator privileges):
+```cmd
+mklink /D "%USERPROFILE%\.vscode\extensions\color-themes-countries" "C:\path\to\color-themes-countries"
 ```
 
 ## Option 3: Install from VSIX Package
