@@ -1,0 +1,83 @@
+{
+  "name": "Russia - Winter Frost (Light)",
+  "type": "light",
+  "colors": {
+    "editor.background": "#f8f9fd",
+    "editor.foreground": "#2c3540",
+    "activityBar.background": "#e5e8f5",
+    "activityBar.foreground": "#3c4550",
+    "activityBarBadge.background": "#6878b8",
+    "sideBar.background": "#eff2fa",
+    "sideBar.foreground": "#3c4550",
+    "sideBarSectionHeader.background": "#e5e8f5",
+    "statusBar.background": "#e5e8f5",
+    "statusBar.foreground": "#2c3540",
+    "titleBar.activeBackground": "#e5e8f5",
+    "titleBar.activeForeground": "#2c3540",
+    "button.background": "#c85858",
+    "button.foreground": "#ffffff",
+    "input.background": "#ffffff",
+    "input.border": "#d0d5da",
+    "focusBorder": "#7888c8",
+    "list.activeSelectionBackground": "#eff2fa",
+    "list.hoverBackground": "#f8f9fd",
+    "list.activeSelectionForeground": "#2c3540",
+    "list.inactiveSelectionForeground": "#2c3540",
+    "list.hoverForeground": "#2c3540"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment"
+      ],
+      "settings": {
+        "foreground": "#243454",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#325292"
+      }
+    },
+    {
+      "scope": [
+        "string"
+      ],
+      "settings": {
+        "foreground": "#6272a2"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "entity.name.variable"
+      ],
+      "settings": {
+        "foreground": "#627292"
+      }
+    },
+    {
+      "scope": [
+        "function",
+        "entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#52729a"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#7282a2"
+      }
+    }
+  ]
+}

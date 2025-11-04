@@ -1,0 +1,33 @@
+{
+  "name": "Brazil - Tropical Green",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1a2418",
+    "editor.foreground": "#e5f0e0",
+    "activityBar.background": "#162014",
+    "activityBar.foreground": "#b8d4a8",
+    "activityBarBadge.background": "#d8c848",
+    "sideBar.background": "#1c2818",
+    "sideBar.foreground": "#d5e5d0",
+    "sideBarSectionHeader.background": "#223020",
+    "statusBar.background": "#2d5530",
+    "statusBar.foreground": "#e5f0e0",
+    "titleBar.activeBackground": "#1f2b1c",
+    "titleBar.activeForeground": "#e5f0e0",
+    "button.background": "#68a868",
+    "button.foreground": "#ffffff",
+    "input.background": "#0f180e",
+    "input.border": "#3a543a",
+    "focusBorder": "#88c888",
+    "list.activeSelectionBackground": "#2d5530",
+    "list.hoverBackground": "#243528"
+  },
+  "tokenColors": [
+    {"scope": ["comment"], "settings": {"foreground": "#6a8a6a", "fontStyle": "italic"}},
+    {"scope": ["keyword", "storage.type", "storage.modifier"], "settings": {"foreground": "#88c888"}},
+    {"scope": ["string"], "settings": {"foreground": "#c8d878"}},
+    {"scope": ["variable", "entity.name.variable"], "settings": {"foreground": "#b8d4a8"}},
+    {"scope": ["function", "entity.name.function"], "settings": {"foreground": "#a8c898"}},
+    {"scope": ["constant.numeric"], "settings": {"foreground": "#d8d898"}}
+  ]
+}

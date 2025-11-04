@@ -1,0 +1,33 @@
+{
+  "name": "Japan - Sakura Soft",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#251a20",
+    "editor.foreground": "#f0e5ea",
+    "activityBar.background": "#201618",
+    "activityBar.foreground": "#e8b8c8",
+    "activityBarBadge.background": "#d86888",
+    "sideBar.background": "#281c22",
+    "sideBar.foreground": "#e5d5da",
+    "sideBarSectionHeader.background": "#322228",
+    "statusBar.background": "#5a2d3a",
+    "statusBar.foreground": "#f0e5ea",
+    "titleBar.activeBackground": "#2b1f24",
+    "titleBar.activeForeground": "#f0e5ea",
+    "button.background": "#d86888",
+    "button.foreground": "#ffffff",
+    "input.background": "#180f14",
+    "input.border": "#543a44",
+    "focusBorder": "#e8a8b8",
+    "list.activeSelectionBackground": "#5a2d3a",
+    "list.hoverBackground": "#352428"
+  },
+  "tokenColors": [
+    {"scope": ["comment"], "settings": {"foreground": "#857075", "fontStyle": "italic"}},
+    {"scope": ["keyword", "storage.type", "storage.modifier"], "settings": {"foreground": "#e8a8b8"}},
+    {"scope": ["string"], "settings": {"foreground": "#d898b8"}},
+    {"scope": ["variable", "entity.name.variable"], "settings": {"foreground": "#e8b8c8"}},
+    {"scope": ["function", "entity.name.function"], "settings": {"foreground": "#d8a8b8"}},
+    {"scope": ["constant.numeric"], "settings": {"foreground": "#e8c8d8"}}
+  ]
+}

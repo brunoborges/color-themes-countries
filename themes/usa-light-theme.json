@@ -1,0 +1,83 @@
+{
+  "name": "USA - Stars & Stripes (Light)",
+  "type": "light",
+  "colors": {
+    "editor.background": "#fafbfd",
+    "editor.foreground": "#2c3540",
+    "activityBar.background": "#e8ecf2",
+    "activityBar.foreground": "#3c4550",
+    "activityBarBadge.background": "#c85a5a",
+    "sideBar.background": "#f2f4f8",
+    "sideBar.foreground": "#3c4550",
+    "sideBarSectionHeader.background": "#e8ecf2",
+    "statusBar.background": "#e8ecf2",
+    "statusBar.foreground": "#2c3540",
+    "titleBar.activeBackground": "#e8ecf2",
+    "titleBar.activeForeground": "#2c3540",
+    "button.background": "#5878a8",
+    "button.foreground": "#ffffff",
+    "input.background": "#ffffff",
+    "input.border": "#d0d5da",
+    "focusBorder": "#6892c7",
+    "list.activeSelectionBackground": "#f2f4f8",
+    "list.hoverBackground": "#fafbfd",
+    "list.activeSelectionForeground": "#2c3540",
+    "list.inactiveSelectionForeground": "#2c3540",
+    "list.hoverForeground": "#2c3540"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment"
+      ],
+      "settings": {
+        "foreground": "#34465a",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#224c81"
+      }
+    },
+    {
+      "scope": [
+        "string"
+      ],
+      "settings": {
+        "foreground": "#a24f4f"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "entity.name.variable"
+      ],
+      "settings": {
+        "foreground": "#728eab"
+      }
+    },
+    {
+      "scope": [
+        "function",
+        "entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#4e729a"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#8e6262"
+      }
+    }
+  ]
+}

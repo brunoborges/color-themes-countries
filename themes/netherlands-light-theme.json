@@ -1,0 +1,83 @@
+{
+  "name": "Netherlands - Orange Horizon (Light)",
+  "type": "light",
+  "colors": {
+    "editor.background": "#fef9f5",
+    "editor.foreground": "#2c3540",
+    "activityBar.background": "#f8ece0",
+    "activityBar.foreground": "#3c4550",
+    "activityBarBadge.background": "#e88848",
+    "sideBar.background": "#fdf4eb",
+    "sideBar.foreground": "#3c4550",
+    "sideBarSectionHeader.background": "#f8ece0",
+    "statusBar.background": "#f8ece0",
+    "statusBar.foreground": "#2c3540",
+    "titleBar.activeBackground": "#f8ece0",
+    "titleBar.activeForeground": "#2c3540",
+    "button.background": "#6878b8",
+    "button.foreground": "#ffffff",
+    "input.background": "#ffffff",
+    "input.border": "#d0d5da",
+    "focusBorder": "#f89858",
+    "list.activeSelectionBackground": "#fdf4eb",
+    "list.hoverBackground": "#fef9f5",
+    "list.activeSelectionForeground": "#2c3540",
+    "list.inactiveSelectionForeground": "#2c3540",
+    "list.hoverForeground": "#2c3540"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment"
+      ],
+      "settings": {
+        "foreground": "#242f3a",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#a26222"
+      }
+    },
+    {
+      "scope": [
+        "string"
+      ],
+      "settings": {
+        "foreground": "#827252"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "entity.name.variable"
+      ],
+      "settings": {
+        "foreground": "#926a42"
+      }
+    },
+    {
+      "scope": [
+        "function",
+        "entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#825a32"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#a27a52"
+      }
+    }
+  ]
+}

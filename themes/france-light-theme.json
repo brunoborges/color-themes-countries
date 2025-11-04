@@ -1,0 +1,83 @@
+{
+  "name": "France - Tricolore Moderne (Light)",
+  "type": "light",
+  "colors": {
+    "editor.background": "#f8fafd",
+    "editor.foreground": "#2c3540",
+    "activityBar.background": "#e5eaf5",
+    "activityBar.foreground": "#3c4550",
+    "activityBarBadge.background": "#6878c8",
+    "sideBar.background": "#eff3fa",
+    "sideBar.foreground": "#3c4550",
+    "sideBarSectionHeader.background": "#e5eaf5",
+    "statusBar.background": "#e5eaf5",
+    "statusBar.foreground": "#2c3540",
+    "titleBar.activeBackground": "#e5eaf5",
+    "titleBar.activeForeground": "#2c3540",
+    "button.background": "#c85858",
+    "button.foreground": "#ffffff",
+    "input.background": "#ffffff",
+    "input.border": "#d0d5da",
+    "focusBorder": "#7888d8",
+    "list.activeSelectionBackground": "#eff3fa",
+    "list.hoverBackground": "#f8fafd",
+    "list.activeSelectionForeground": "#2c3540",
+    "list.inactiveSelectionForeground": "#2c3540",
+    "list.hoverForeground": "#2c3540"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment"
+      ],
+      "settings": {
+        "foreground": "#24344f",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#42528e"
+      }
+    },
+    {
+      "scope": [
+        "string"
+      ],
+      "settings": {
+        "foreground": "#726282"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "entity.name.variable"
+      ],
+      "settings": {
+        "foreground": "#62728e"
+      }
+    },
+    {
+      "scope": [
+        "function",
+        "entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#52729a"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#82728e"
+      }
+    }
+  ]
+}

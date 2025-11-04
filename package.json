@@ -1,0 +1,225 @@
+{
+  "name": "color-themes-countries",
+  "displayName": "Country Color Themes",
+  "description": "A collection of 20 beautiful VS Code themes inspired by countries with modern, soft color palettes",
+  "version": "1.0.0",
+  "publisher": "brunoborges",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "country",
+    "flags",
+    "soft colors"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "USA - Stars & Stripes (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/usa-dark-theme.json"
+      },
+      {
+        "label": "USA - Stars & Stripes (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/usa-light-theme.json"
+      },
+      {
+        "label": "India - Saffron Dream (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/india-dark-theme.json"
+      },
+      {
+        "label": "India - Saffron Dream (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/india-light-theme.json"
+      },
+      {
+        "label": "China - Dragon Red (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/china-dark-theme.json"
+      },
+      {
+        "label": "China - Dragon Red (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/china-light-theme.json"
+      },
+      {
+        "label": "Brazil - Tropical Green (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/brazil-dark-theme.json"
+      },
+      {
+        "label": "Brazil - Tropical Green (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/brazil-light-theme.json"
+      },
+      {
+        "label": "UK - Royal Blue (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/uk-dark-theme.json"
+      },
+      {
+        "label": "UK - Royal Blue (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/uk-light-theme.json"
+      },
+      {
+        "label": "Germany - Berlin Night (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/germany-dark-theme.json"
+      },
+      {
+        "label": "Germany - Berlin Night (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/germany-light-theme.json"
+      },
+      {
+        "label": "Japan - Sakura Soft (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/japan-dark-theme.json"
+      },
+      {
+        "label": "Japan - Sakura Soft (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/japan-light-theme.json"
+      },
+      {
+        "label": "France - Tricolore Moderne (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/france-dark-theme.json"
+      },
+      {
+        "label": "France - Tricolore Moderne (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/france-light-theme.json"
+      },
+      {
+        "label": "Canada - Maple Leaf (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/canada-dark-theme.json"
+      },
+      {
+        "label": "Canada - Maple Leaf (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/canada-light-theme.json"
+      },
+      {
+        "label": "Russia - Winter Frost (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/russia-dark-theme.json"
+      },
+      {
+        "label": "Russia - Winter Frost (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/russia-light-theme.json"
+      },
+      {
+        "label": "South Korea - Tech Seoul (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/south-korea-dark-theme.json"
+      },
+      {
+        "label": "South Korea - Tech Seoul (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/south-korea-light-theme.json"
+      },
+      {
+        "label": "Australia - Outback Sunset (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/australia-dark-theme.json"
+      },
+      {
+        "label": "Australia - Outback Sunset (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/australia-light-theme.json"
+      },
+      {
+        "label": "Netherlands - Orange Horizon (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/netherlands-dark-theme.json"
+      },
+      {
+        "label": "Netherlands - Orange Horizon (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/netherlands-light-theme.json"
+      },
+      {
+        "label": "Poland - Baltic White (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/poland-dark-theme.json"
+      },
+      {
+        "label": "Poland - Baltic White (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/poland-light-theme.json"
+      },
+      {
+        "label": "Spain - Mediterranean Sun (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/spain-dark-theme.json"
+      },
+      {
+        "label": "Spain - Mediterranean Sun (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/spain-light-theme.json"
+      },
+      {
+        "label": "Sweden - Nordic Blue (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sweden-dark-theme.json"
+      },
+      {
+        "label": "Sweden - Nordic Blue (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/sweden-light-theme.json"
+      },
+      {
+        "label": "Ukraine - Wheat & Sky (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ukraine-dark-theme.json"
+      },
+      {
+        "label": "Ukraine - Wheat & Sky (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/ukraine-light-theme.json"
+      },
+      {
+        "label": "Argentina - Sky Light (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/argentina-dark-theme.json"
+      },
+      {
+        "label": "Argentina - Sky Light (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/argentina-light-theme.json"
+      },
+      {
+        "label": "Israel - Tech Aviv (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/israel-dark-theme.json"
+      },
+      {
+        "label": "Israel - Tech Aviv (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/israel-light-theme.json"
+      },
+      {
+        "label": "Singapore - Lion City (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/singapore-dark-theme.json"
+      },
+      {
+        "label": "Singapore - Lion City (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/singapore-light-theme.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Argentina - Sky Light (Light)",
+  "type": "light",
+  "colors": {
+    "editor.background": "#f8fbfe",
+    "editor.foreground": "#2c3540",
+    "activityBar.background": "#e5eef8",
+    "activityBar.foreground": "#3c4550",
+    "activityBarBadge.background": "#6888c8",
+    "sideBar.background": "#eff6fd",
+    "sideBar.foreground": "#3c4550",
+    "sideBarSectionHeader.background": "#e5eef8",
+    "statusBar.background": "#e5eef8",
+    "statusBar.foreground": "#2c3540",
+    "titleBar.activeBackground": "#e5eef8",
+    "titleBar.activeForeground": "#2c3540",
+    "button.background": "#d8b848",
+    "button.foreground": "#ffffff",
+    "input.background": "#ffffff",
+    "input.border": "#d0d5da",
+    "focusBorder": "#78a8d8",
+    "list.activeSelectionBackground": "#eff6fd",
+    "list.hoverBackground": "#f8fbfe",
+    "list.activeSelectionForeground": "#2c3540",
+    "list.inactiveSelectionForeground": "#2c3540",
+    "list.hoverForeground": "#2c3540"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment"
+      ],
+      "settings": {
+        "foreground": "#243454",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#4282a2"
+      }
+    },
+    {
+      "scope": [
+        "string"
+      ],
+      "settings": {
+        "foreground": "#829262"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "entity.name.variable"
+      ],
+      "settings": {
+        "foreground": "#5282a2"
+      }
+    },
+    {
+      "scope": [
+        "function",
+        "entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#42729a"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#92a272"
+      }
+    }
+  ]
+}

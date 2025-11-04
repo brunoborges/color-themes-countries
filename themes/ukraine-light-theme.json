@@ -1,0 +1,83 @@
+{
+  "name": "Ukraine - Wheat & Sky (Light)",
+  "type": "light",
+  "colors": {
+    "editor.background": "#f8fcfe",
+    "editor.foreground": "#2c3540",
+    "activityBar.background": "#e5f0f8",
+    "activityBar.foreground": "#3c4550",
+    "activityBarBadge.background": "#6888d8",
+    "sideBar.background": "#eff8fd",
+    "sideBar.foreground": "#3c4550",
+    "sideBarSectionHeader.background": "#e5f0f8",
+    "statusBar.background": "#e5f0f8",
+    "statusBar.foreground": "#2c3540",
+    "titleBar.activeBackground": "#e5f0f8",
+    "titleBar.activeForeground": "#2c3540",
+    "button.background": "#d8c858",
+    "button.foreground": "#ffffff",
+    "input.background": "#ffffff",
+    "input.border": "#d0d5da",
+    "focusBorder": "#7898e8",
+    "list.activeSelectionBackground": "#eff8fd",
+    "list.hoverBackground": "#f8fcfe",
+    "list.activeSelectionForeground": "#2c3540",
+    "list.inactiveSelectionForeground": "#2c3540",
+    "list.hoverForeground": "#2c3540"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment"
+      ],
+      "settings": {
+        "foreground": "#24344f",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#3262a2"
+      }
+    },
+    {
+      "scope": [
+        "string"
+      ],
+      "settings": {
+        "foreground": "#928242"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "entity.name.variable"
+      ],
+      "settings": {
+        "foreground": "#6282a2"
+      }
+    },
+    {
+      "scope": [
+        "function",
+        "entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#827232"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#a29252"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Germany - Berlin Night",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1a1a1a",
+    "editor.foreground": "#e8e8e8",
+    "activityBar.background": "#161616",
+    "activityBar.foreground": "#d4a444",
+    "activityBarBadge.background": "#c89838",
+    "sideBar.background": "#1c1c1c",
+    "sideBar.foreground": "#d5d5d5",
+    "sideBarSectionHeader.background": "#252525",
+    "statusBar.background": "#3a3a3a",
+    "statusBar.foreground": "#e8e8e8",
+    "titleBar.activeBackground": "#1f1f1f",
+    "titleBar.activeForeground": "#e8e8e8",
+    "button.background": "#c89838",
+    "button.foreground": "#1a1a1a",
+    "input.background": "#0f0f0f",
+    "input.border": "#404040",
+    "focusBorder": "#d4a444",
+    "list.activeSelectionBackground": "#3a3a3a",
+    "list.hoverBackground": "#2a2a2a"
+  },
+  "tokenColors": [
+    {"scope": ["comment"], "settings": {"foreground": "#707070", "fontStyle": "italic"}},
+    {"scope": ["keyword", "storage.type", "storage.modifier"], "settings": {"foreground": "#d4a444"}},
+    {"scope": ["string"], "settings": {"foreground": "#c8b888"}},
+    {"scope": ["variable", "entity.name.variable"], "settings": {"foreground": "#d5d5d5"}},
+    {"scope": ["function", "entity.name.function"], "settings": {"foreground": "#b8a868"}},
+    {"scope": ["constant.numeric"], "settings": {"foreground": "#e8d4a4"}}
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "India - Saffron Dream",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1a2520",
+    "editor.foreground": "#e5f0e8",
+    "activityBar.background": "#162116",
+    "activityBar.foreground": "#d4b89a",
+    "activityBarBadge.background": "#d89860",
+    "sideBar.background": "#1c2822",
+    "sideBar.foreground": "#d5e5da",
+    "sideBarSectionHeader.background": "#253228",
+    "statusBar.background": "#2a5540",
+    "statusBar.foreground": "#e5f0e8",
+    "titleBar.activeBackground": "#1f2b24",
+    "titleBar.activeForeground": "#e5f0e8",
+    "button.background": "#d89860",
+    "button.foreground": "#1a1a1a",
+    "input.background": "#0f1814",
+    "input.border": "#3a5544",
+    "focusBorder": "#8ab098",
+    "list.activeSelectionBackground": "#2a5540",
+    "list.hoverBackground": "#243530"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": {
+        "foreground": "#6a8575",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "settings": {
+        "foreground": "#d89860"
+      }
+    },
+    {
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#98c9a8"
+      }
+    },
+    {
+      "scope": ["variable", "entity.name.variable"],
+      "settings": {
+        "foreground": "#b8d4c0"
+      }
+    },
+    {
+      "scope": ["function", "entity.name.function"],
+      "settings": {
+        "foreground": "#c0ab90"
+      }
+    },
+    {
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#e0b088"
+      }
+    }
+  ]
+}

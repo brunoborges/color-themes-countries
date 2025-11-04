@@ -1,0 +1,33 @@
+{
+  "name": "Australia - Outback Sunset",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1a1f24",
+    "editor.foreground": "#e8ecf0",
+    "activityBar.background": "#161a20",
+    "activityBar.foreground": "#c8b898",
+    "activityBarBadge.background": "#d89858",
+    "sideBar.background": "#1c2124",
+    "sideBar.foreground": "#d5dae0",
+    "sideBarSectionHeader.background": "#222830",
+    "statusBar.background": "#2d3848",
+    "statusBar.foreground": "#e8ecf0",
+    "titleBar.activeBackground": "#1f2428",
+    "titleBar.activeForeground": "#e8ecf0",
+    "button.background": "#d89858",
+    "button.foreground": "#1a1a1a",
+    "input.background": "#0f1214",
+    "input.border": "#3a4a60",
+    "focusBorder": "#c8a868",
+    "list.activeSelectionBackground": "#2d3848",
+    "list.hoverBackground": "#242f3c"
+  },
+  "tokenColors": [
+    {"scope": ["comment"], "settings": {"foreground": "#6a7a8a", "fontStyle": "italic"}},
+    {"scope": ["keyword", "storage.type", "storage.modifier"], "settings": {"foreground": "#c8a868"}},
+    {"scope": ["string"], "settings": {"foreground": "#d8b888"}},
+    {"scope": ["variable", "entity.name.variable"], "settings": {"foreground": "#c8b898"}},
+    {"scope": ["function", "entity.name.function"], "settings": {"foreground": "#b8a888"}},
+    {"scope": ["constant.numeric"], "settings": {"foreground": "#e8c898"}}
+  ]
+}

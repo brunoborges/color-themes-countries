@@ -1,0 +1,33 @@
+{
+  "name": "Poland - Baltic White",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1f1a1a",
+    "editor.foreground": "#ede8e8",
+    "activityBar.background": "#1a1616",
+    "activityBar.foreground": "#e8d8d8",
+    "activityBarBadge.background": "#c85858",
+    "sideBar.background": "#221c1c",
+    "sideBar.foreground": "#e0d8d8",
+    "sideBarSectionHeader.background": "#2a2222",
+    "statusBar.background": "#482d2d",
+    "statusBar.foreground": "#ede8e8",
+    "titleBar.activeBackground": "#251f1f",
+    "titleBar.activeForeground": "#ede8e8",
+    "button.background": "#c85858",
+    "button.foreground": "#ffffff",
+    "input.background": "#140f0f",
+    "input.border": "#483a3a",
+    "focusBorder": "#d87878",
+    "list.activeSelectionBackground": "#482d2d",
+    "list.hoverBackground": "#302424"
+  },
+  "tokenColors": [
+    {"scope": ["comment"], "settings": {"foreground": "#807070", "fontStyle": "italic"}},
+    {"scope": ["keyword", "storage.type", "storage.modifier"], "settings": {"foreground": "#d87878"}},
+    {"scope": ["string"], "settings": {"foreground": "#e8b8b8"}},
+    {"scope": ["variable", "entity.name.variable"], "settings": {"foreground": "#e8d8d8"}},
+    {"scope": ["function", "entity.name.function"], "settings": {"foreground": "#d8b8b8"}},
+    {"scope": ["constant.numeric"], "settings": {"foreground": "#e8c8c8"}}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "China - Dragon Red",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#241a1a",
+    "editor.foreground": "#f0e5e5",
+    "activityBar.background": "#1f1616",
+    "activityBar.foreground": "#e8b8a8",
+    "activityBarBadge.background": "#d85858",
+    "sideBar.background": "#281c1c",
+    "sideBar.foreground": "#e5d5d5",
+    "sideBarSectionHeader.background": "#322222",
+    "statusBar.background": "#5a2d2d",
+    "statusBar.foreground": "#f0e5e5",
+    "titleBar.activeBackground": "#2b1f1f",
+    "titleBar.activeForeground": "#f0e5e5",
+    "button.background": "#d85858",
+    "button.foreground": "#ffffff",
+    "input.background": "#18100f",
+    "input.border": "#543a3a",
+    "focusBorder": "#c87878",
+    "list.activeSelectionBackground": "#5a2d2d",
+    "list.hoverBackground": "#352424"
+  },
+  "tokenColors": [
+    {"scope": ["comment"], "settings": {"foreground": "#857070", "fontStyle": "italic"}},
+    {"scope": ["keyword", "storage.type", "storage.modifier"], "settings": {"foreground": "#e8a888"}},
+    {"scope": ["string"], "settings": {"foreground": "#d89898"}},
+    {"scope": ["variable", "entity.name.variable"], "settings": {"foreground": "#e0c0a8"}},
+    {"scope": ["function", "entity.name.function"], "settings": {"foreground": "#d8b8a0"}},
+    {"scope": ["constant.numeric"], "settings": {"foreground": "#e8c8a8"}}
+  ]
+}

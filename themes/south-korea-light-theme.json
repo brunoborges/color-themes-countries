@@ -1,0 +1,83 @@
+{
+  "name": "South Korea - Tech Seoul (Light)",
+  "type": "light",
+  "colors": {
+    "editor.background": "#fefafc",
+    "editor.foreground": "#2c3540",
+    "activityBar.background": "#f5e8f0",
+    "activityBar.foreground": "#3c4550",
+    "activityBarBadge.background": "#c86888",
+    "sideBar.background": "#fdf0f8",
+    "sideBar.foreground": "#3c4550",
+    "sideBarSectionHeader.background": "#f5e8f0",
+    "statusBar.background": "#f5e8f0",
+    "statusBar.foreground": "#2c3540",
+    "titleBar.activeBackground": "#f5e8f0",
+    "titleBar.activeForeground": "#2c3540",
+    "button.background": "#6878a8",
+    "button.foreground": "#ffffff",
+    "input.background": "#ffffff",
+    "input.border": "#d0d5da",
+    "focusBorder": "#d888a8",
+    "list.activeSelectionBackground": "#fdf0f8",
+    "list.hoverBackground": "#fefafc",
+    "list.activeSelectionForeground": "#2c3540",
+    "list.inactiveSelectionForeground": "#2c3540",
+    "list.hoverForeground": "#2c3540"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment"
+      ],
+      "settings": {
+        "foreground": "#24344f",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#4262a2"
+      }
+    },
+    {
+      "scope": [
+        "string"
+      ],
+      "settings": {
+        "foreground": "#826262"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "entity.name.variable"
+      ],
+      "settings": {
+        "foreground": "#7282a2"
+      }
+    },
+    {
+      "scope": [
+        "function",
+        "entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#52729a"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#927272"
+      }
+    }
+  ]
+}

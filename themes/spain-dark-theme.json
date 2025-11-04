@@ -1,0 +1,33 @@
+{
+  "name": "Spain - Mediterranean Sun",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#241e1a",
+    "editor.foreground": "#f0ebe5",
+    "activityBar.background": "#201a16",
+    "activityBar.foreground": "#e8c898",
+    "activityBarBadge.background": "#d8a848",
+    "sideBar.background": "#281f1c",
+    "sideBar.foreground": "#e5dcd5",
+    "sideBarSectionHeader.background": "#322622",
+    "statusBar.background": "#5a4630",
+    "statusBar.foreground": "#f0ebe5",
+    "titleBar.activeBackground": "#2b231f",
+    "titleBar.activeForeground": "#f0ebe5",
+    "button.background": "#d8a848",
+    "button.foreground": "#1a1a1a",
+    "input.background": "#18120f",
+    "input.border": "#543a30",
+    "focusBorder": "#e8c868",
+    "list.activeSelectionBackground": "#5a4630",
+    "list.hoverBackground": "#352f24"
+  },
+  "tokenColors": [
+    {"scope": ["comment"], "settings": {"foreground": "#857a6a", "fontStyle": "italic"}},
+    {"scope": ["keyword", "storage.type", "storage.modifier"], "settings": {"foreground": "#e8c868"}},
+    {"scope": ["string"], "settings": {"foreground": "#d8b888"}},
+    {"scope": ["variable", "entity.name.variable"], "settings": {"foreground": "#e8c898"}},
+    {"scope": ["function", "entity.name.function"], "settings": {"foreground": "#d8b878"}},
+    {"scope": ["constant.numeric"], "settings": {"foreground": "#e8d898"}}
+  ]
+}
