@@ -45,56 +45,9 @@ mklink /D "%USERPROFILE%\.vscode\extensions\color-themes-countries" "C:\path\to\
 
 ## Activating a Theme
 
-After installation:
-
-1. Open Command Palette:
-   - Windows/Linux: `Ctrl+Shift+P`
-   - macOS: `Cmd+Shift+P`
-
-2. Type: `Color Theme` or `Preferences: Color Theme`
-
-3. Browse and select your preferred country theme:
-   - USA - Stars & Stripes
-   - India - Saffron Dream
-   - China - Dragon Red
-   - Brazil - Tropical Green
-   - UK - Royal Blue
-   - Germany - Berlin Night
-   - Japan - Sakura Soft
-   - France - Tricolore Moderne
-   - Canada - Maple Leaf
-   - Russia - Winter Frost
-   - South Korea - Tech Seoul
-   - Australia - Outback Sunset
-   - Netherlands - Orange Horizon
-   - Poland - Baltic White
-   - Spain - Mediterranean Sun
-   - Sweden - Nordic Blue
-   - Ukraine - Wheat & Sky
-   - Argentina - Sky Light
-   - Israel - Tech Aviv
-   - Singapore - Lion City
-
-## Building from Source
-
-If you want to package the extension yourself:
-
-1. Install `vsce` (Visual Studio Code Extension Manager):
-   ```bash
-   npm install -g @vscode/vsce
-   ```
-
-2. Navigate to the extension directory:
-   ```bash
-   cd /path/to/color-themes-countries
-   ```
-
-3. Package the extension:
-   ```bash
-   vsce package
-   ```
-
-4. This will create a `.vsix` file that you can install
+1. `Ctrl+Shift+P` / `Cmd+Shift+P`
+2. Type `Color Theme`
+3. Select your preferred country theme
 
 ## Troubleshooting
 
