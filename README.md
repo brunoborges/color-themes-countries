@@ -1,5 +1,8 @@
 # Country Color Themes for VS Code
 
+[![Install](https://img.shields.io/badge/Install-Latest%20Release-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/brunoborges/color-themes-countries/releases/latest)
+[![Release](https://img.shields.io/github/v/release/brunoborges/color-themes-countries?style=for-the-badge)](https://github.com/brunoborges/color-themes-countries/releases)
+
 A beautiful collection of 20 VS Code color themes inspired by countries with significant software developer populations. Each theme features modern, soft color palettes derived from the colors of country flags.
 
 ## 🌍 Available Themes
@@ -35,18 +38,25 @@ Each theme is carefully crafted with:
 
 ## 📦 Installation
 
+### Quick Install (Recommended)
+[![Install](https://img.shields.io/badge/Install-Download%20VSIX-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/brunoborges/color-themes-countries/releases/latest)
+
+1. Click the **Install** button above to go to the latest release
+2. Download the `.vsix` file from the release assets
+3. Open VS Code
+4. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS)
+5. Type "Install from VSIX" and select it
+6. Choose the downloaded `.vsix` file
+7. Reload VS Code
+
 ### From VS Code Marketplace
 1. Open VS Code
 2. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
 3. Search for "Country Color Themes"
 4. Click Install
 
-### Manual Installation
-1. Clone this repository
-2. Copy the folder to your VS Code extensions directory:
-   - **Windows**: `%USERPROFILE%\.vscode\extensions`
-   - **macOS/Linux**: `~/.vscode/extensions`
-3. Reload VS Code
+### Manual Installation (Development)
+See [INSTALLATION.md](INSTALLATION.md) for detailed manual installation instructions.
 
 ## 🚀 Usage
 
